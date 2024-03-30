@@ -1,0 +1,6 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid red;
+    background-color: aqua;
+}
